@@ -1,0 +1,3 @@
+report_id,battle_time,report_type,result,side,player,alliance,coordinates,main_general,assistant_general,troop_type,tier,troops,killed,wounded,survived,other_losses,notes
+report-001,,attack,,attacker,,,,,,mounted,T12,,,,,,
+report-001,,attack,,defender,,,,,,ground,T11,,,,,,
